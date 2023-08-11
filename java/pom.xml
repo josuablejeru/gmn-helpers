@@ -20,7 +20,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/gs1/gmn-helpers</url>
+            <url>https://maven.pkg.github.com/josuablejeru/gmn-helpers</url>
         </repository>
     </distributionManagement>
 
